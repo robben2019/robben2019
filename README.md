@@ -22,12 +22,14 @@ Welcome to my Github page! I am Yuxiao Chen and I am currently finishing my Soft
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=robben2019&show_icons=true&hide_border=true" />
-
+	
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/c/c-ar21.svg"></code>	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/c++/c++-ar21.svg"></code>
 </p>
 
 
