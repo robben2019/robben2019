@@ -30,4 +30,4 @@ Welcome to my Github page! I am Yuxiao Chen and I am currently finishing my Soft
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>(https://github.com/robben2019/robben2019.github.io/blob/master/images/OIP.png)</sub>
