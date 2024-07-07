@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am Yuxiao Chen and I am currently finishing my Software Engineering Master degree at Wuhan University!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/robben2019/robben2019.github.io/blob/master/images/OIP.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -21,7 +21,7 @@ Welcome to my Github page! I am Yuxiao Chen and I am currently finishing my Soft
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=robben2019&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -30,4 +30,4 @@ Welcome to my Github page! I am Yuxiao Chen and I am currently finishing my Soft
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 </p>
 
-<sub>(https://github.com/robben2019/robben2019.github.io/blob/master/images/OIP.png)</sub>
+
