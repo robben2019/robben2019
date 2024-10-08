@@ -10,7 +10,7 @@ Welcome to my Github page! I am Yuxiao Chen and I am currently finishing my Soft
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
+- Finish my Software Engineering Master Degree  
 - Taking online courses about Data Science and Machine Learning 
 
 #### :muscle: Things I am challenging myself with:
